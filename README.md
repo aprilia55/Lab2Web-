@@ -22,7 +22,7 @@
 Saya membuat file `lab2_css_dasar.html` dengan struktur HTML dasar yang berisi header, navigation, dan sebuah div dengan ID `intro`.  
 
 **Screenshot:**  
-![Screenshot HTML Dasar](screenshot-html-dasar.png)  
+![Screenshot HTML Dasar](https://github.com/aprilia55/Lab2Web-/blob/a6ffb70a46fd2e016e1baea4e37c98c9fb4c658f/no%201.png)  
 
 ---
 
@@ -31,7 +31,7 @@ Saya menambahkan **CSS internal** di bagian `<head>` menggunakan tag `<style>`.
 CSS ini digunakan untuk mengatur tampilan `body`, `header`, dan `h1`.  
 
 **Screenshot:**  
-![Screenshot CSS Internal](screenshot-css-internal.png)  
+![Screenshot CSS Internal](https://github.com/aprilia55/Lab2Web-/blob/a6ffb70a46fd2e016e1baea4e37c98c9fb4c658f/no%202.png)  
 
 ---
 
@@ -39,7 +39,7 @@ CSS ini digunakan untuk mengatur tampilan `body`, `header`, dan `h1`.
 Saya menambahkan **inline CSS** pada elemen `<p>` dengan properti `text-align` dan `color`.  
 
 **Screenshot:**  
-![Screenshot Inline CSS](screenshot-inline-css.png)  
+![Screenshot Inline CSS](https://github.com/aprilia55/Lab2Web-/blob/a6ffb70a46fd2e016e1baea4e37c98c9fb4c658f/no%203.png)  
 
 ---
 
@@ -48,7 +48,7 @@ Saya membuat file baru `style_eksternal.css` kemudian menghubungkannya ke HTML d
 CSS eksternal ini digunakan untuk mengatur tampilan navigasi (`nav`) dan link (`a`).  
 
 **Screenshot:**  
-![Screenshot CSS Eksternal](screenshot-css-eksternal.png)  
+![Screenshot CSS Eksternal](https://github.com/aprilia55/Lab2Web-/blob/a6ffb70a46fd2e016e1baea4e37c98c9fb4c658f/no4.png)  
 
 ---
 
@@ -57,7 +57,7 @@ Saya menambahkan CSS selector berupa **ID** (`#intro`) dan **Class** (`.button`,
 Lalu saya menerapkannya pada elemen di HTML.  
 
 **Screenshot:**  
-![Screenshot Selector](screenshot-selector.png)  
+![Screenshot Selector](https://github.com/aprilia55/Lab2Web-/blob/a6ffb70a46fd2e016e1baea4e37c98c9fb4c658f/no%205.png)  
 
 ---
 
